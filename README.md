@@ -1,0 +1,2 @@
+- Nhánh Main: Dùng để checkout ra nhánh mới
+- Nhánh Develop: Dùng để merge toàn bộ code
